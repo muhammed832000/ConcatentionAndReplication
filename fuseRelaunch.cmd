@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "C:/Users/muham/Desktop/Verilog/Programs/ConcatentionAndReplication/ConcatenationTest_isim_beh.exe" -prj "C:/Users/muham/Desktop/Verilog/Programs/ConcatentionAndReplication/ConcatenationTest_beh.prj" "work.ConcatenationTest" "work.glbl" 
